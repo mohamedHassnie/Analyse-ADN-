@@ -1,9 +1,11 @@
 const mongoose = require("mongoose");
 
 AnalyseGenetique = new mongoose.Schema({
-  USER_ID: { type: String },
   chromosome: [
     {
+      USER_ID: {
+        type: String,
+      },
       ID: {
         type: String,
       },
@@ -12,9 +14,6 @@ AnalyseGenetique = new mongoose.Schema({
       },
 
       REF: {
-        type: String,
-      },
-      FORMAT: {
         type: String,
       },
       RES: {

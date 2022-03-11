@@ -4,11 +4,9 @@ user = new mongoose.Schema({
   Name: {
     type: String,
   },
-  age: {
-    type: String,
-  },
-  ID_password: {
-    type: String,
+
+  ID_Passport: {
+    type: Number,
   },
   Nationality: {
     type: String,
@@ -22,7 +20,6 @@ user = new mongoose.Schema({
   Email_address: { type: String },
   Contact_number: { type: String },
   Physical_Address: { type: String },
-  Contact_number: { type: Number },
   Physical_Address: { type: String },
 
   Medical_Questions: [
