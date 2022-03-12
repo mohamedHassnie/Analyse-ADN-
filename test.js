@@ -24,12 +24,11 @@ app.post("/telecharger", upload1.single("filetoupload"), (req, res) => {
 
 app.use(bodyParser.json());
 const xlsx = require("xlsx");
-var workbook = xlsx.readFile(
-  "uploads/Medical-questionnaire_Livewellgx111.xlsx"
-);
+var workbook = xlsx.readFile("");
 const sheet_name_list = workbook.SheetNames;
 var data = xlsx.utils.sheet_to_json(workbook.Sheets[sheet_name_list[1]]);
-var data5 = JSON.stringify(data[12]);
+var data5 = JSON.stringify(data[21]);
+
 //console.log("--------", data[2].__EMPTY);
 console.log(data5);
 app.post("/Adduser", async (req, res) => {
@@ -43,12 +42,159 @@ app.post("/Adduser", async (req, res) => {
     Contact_number: data[9].__EMPTY,
     Physical_Address: data[10].__EMPTY,
     Medical_Questions: {
-      Country_of_Origin: data[11].__EMPTY,
-      Do_you_drink_Alcohol: data[12].__EMPTY,
-      Have_you_ever_smoked: data[13].__EMPTY,
-      Do_you_currently_smoke: data[14].__EMPTY,
+      Do_you_drink_Alcohol: {
+        Country_of_Origin: data[12].__EMPTY,
+        You: data[12].__EMPTY_1,
+        Father: data[12 - 0].__EMPTY_2,
+        MOther: data[12 - 1].__EMPTY_3,
+      },
+      Have_you_ever_smoked: {
+        You: data[15].__EMPTY,
+        Father: data[15 - 0].__EMPTY,
+        MOther: data[15 - 1].__EMPTY,
+      },
+      Do_you_currently_smoke: {
+        You: data[16].__EMPTY,
+        Father: data[16 - 0].__EMPTY,
+        MOther: data[16 - 1].__EMPTY,
+      },
     },
+    Family_medical_history: {
+      Hypertension: {
+        You: data[18].__EMPTY,
+        MOther: data[18 - 1].__EMPTY,
+        Father: data[18 - 2].__EMPTY,
+        Child: data[18 - 3].__EMPTY,
+      },
+
+      Diabetes_TypeI: {
+        You: data[19].__EMPTY,
+        MOther: data[19].__EMPTY,
+        Father: data[19].__EMPTY,
+        Child: data[19].__EMPTY,
+      },
+      Diabetes_TypeII: {
+        You: data[20].__EMPTY,
+        MOther: data[20 - 1].__EMPTY,
+        Father: data[20 - 2].__EMPTY,
+        Child: data[20 - 3].__EMPTY,
+      },
+      Heart_disease: {
+        You: data[21].__EMPTY,
+        MOther: data[21 - 1].__EMPTY,
+        Father: data[21].__EMPTY,
+        Child: data[21].__EMPTY,
+      },
+      Cholesterol: {
+        You: data[22].__EMPTY,
+        MOther: data[22 - 1].__EMPTY,
+        Father: data[22 - 2].__EMPTY,
+        Child: data[22 - 3].__EMPTY,
+      },
+    },
+    Family_Cancer_History: [
+      {
+        Breast_cancer: {
+          You: data[24].__EMPTY,
+          MOther: data[24 - 1].__EMPTY,
+          Father: data[24 - 2].__EMPTY,
+          Child: data[24 - 3].__EMPTY,
+        },
+        Colon_rectal_colorectal_cancer: {
+          You: data[25].__EMPTY,
+          MOther: data[25 - 1].__EMPTY,
+          Father: data[25 - 2].__EMPTY,
+          Child: data[25 - 3].__EMPTY,
+        },
+        Female_reproductive_cancer: {
+          You: data[26].__EMPTY,
+          MOther: data[26 - 1].__EMPTY,
+          Father: data[26 - 2].__EMPTY,
+          Child: data[26 - 3].__EMPTY,
+        },
+        Liver_cancer: {
+          You: data[27].__EMPTY,
+          MOther: data[27 - 1].__EMPTY,
+          Father: data[27 - 2].__EMPTY,
+          Child: data[27 - 3].__EMPTY,
+        },
+        Lung_cancer: {
+          You: data[28 - 1].__EMPTY,
+          MOther: data[28 - 2].__EMPTY,
+          Father: data[28 - 3].__EMPTY,
+          Child: data[28 - 3].__EMPTY,
+        },
+
+        Pancreatic_cancer: {
+          You: data[29].__EMPTY,
+          MOther: data[29 - 1].__EMPTY,
+          Father: data[29 - 2].__EMPTY,
+          Child: data[29 - 2].__EMPTY,
+        },
+        Prostate_cancer: {
+          You: data[30].__EMPTY,
+          MOther: data[30 - 1].__EMPTY,
+          Father: data[30 - 2].__EMPTY,
+          Child: data[30 - 2].__EMPTY,
+        },
+
+        Skin_cancer: {
+          You: data[31].__EMPTY,
+          MOther: data[31 - 1].__EMPTY,
+          Father: data[31 - 2].__EMPTY,
+          Child: data[31 - 3].__EMPTY,
+        },
+      },
+    ],
+    Reproductive_history: [
+      {
+        Polycystic_ovarian_syndrome: {
+          You: data[33].__EMPTY,
+          MOther: data[33 - 1].__EMPTY,
+          Father: data[33 - 2].__EMPTY,
+          Child: data[33 - 3].__EMPTY,
+        },
+
+        Endometriosis: {
+          You: data[34].__EMPTY,
+          MOther: data[34 - 1].__EMPTY,
+          Father: data[34 - 2].__EMPTY,
+          Child: data[34 - 3].__EMPTY,
+        },
+        Problems_falling_pregnant: {
+          You: data[35].__EMPTY,
+          MOther: data[35 - 1].__EMPTY,
+          Father: data[35 - 2].__EMPTY,
+          Child: data[35 - 3].__EMPTY,
+        },
+        Past_miscarriages: {
+          You: data[36].__EMPTY,
+          MOther: data[36 - 1].__EMPTY,
+          Father: data[36 - 2].__EMPTY,
+          Child: data[36 - 3].__EMPTY,
+        },
+        Currently_pregnant: {
+          You: data[37].__EMPTY,
+          MOther: data[37 - 1].__EMPTY,
+          Father: data[37 - 2].__EMPTY,
+          Child: data[37 - 3].__EMPTY,
+        },
+        Menopausal: {
+          You: data[38].__EMPTY,
+          MOther: data[38 - 1].__EMPTY,
+          Father: data[38 - 2].__EMPTY,
+          Child: data[38 - 3].__EMPTY,
+        },
+        Post_menopausal: {
+          You: data[39].__EMPTY,
+          MOther: data[39 - 1].__EMPTY,
+          Father: data[39 - 2].__EMPTY,
+          Child: data[39 - 3].__EMPTY,
+        },
+      },
+    ],
   });
+
   console.log(user);
   console.log(data[13]);
   var myInterface = readline.createInterface({
@@ -94,7 +240,13 @@ app.post("/Adduser", async (req, res) => {
             TYPE: 3,
           },
         });
+      } else if (
+        x.match("^0/0:0*") ||
+        x.match("^1/1:0*") ||
+        x.match("^1/0:0*")
+      ) {
       }
+      console.log("info:", 0);
     }
     lineno++;
   });
