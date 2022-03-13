@@ -8,7 +8,7 @@ user = new mongoose.Schema({
   },
 
   ID_Passport: {
-    type: Number,
+    type: String,
   },
   Nationality: {
     type: String,
