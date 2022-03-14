@@ -70,7 +70,6 @@ app.post("/Adduser", async (req, res) => {
     Barcode: barcode,
     Name: name,
     ID_Passport: ID_Passport,
-    // ID_Passport: data[4].__EMPTY,
     // Nationality: data[5].__EMPTY,
     // Gender: data[6].__EMPTY,
     // Date_of_birth: data[7].__EMPTY,
@@ -232,12 +231,8 @@ app.post("/Adduser", async (req, res) => {
     //],
   });
 
-  //kjehfl
-
   console.log(user);
-  //console.log(data[13]);
   var myInterface = readline.createInterface({
-    //input: fs.createReadStream("uploads/txt.vcf"),
     input: fs.createReadStream(FILE_CHROMO_USER_PATH),
   });
   var lineno = 0;
@@ -250,33 +245,26 @@ app.post("/Adduser", async (req, res) => {
           USER_ID: user._id,
           ID: item.split("\t")[2],
           POS: item.split("\t")[1],
-          REF: item.split("\t")[3] + " | " + item.split("\t")[3],
-          //RES: item.split("\t")[9],
-          TYPE: 1,
+          chrom: item.split("\t")[3] + " | " + item.split("\t")[3],
+          TYPE: 0,
         });
       } else if (x.match("0/1:[1-14]*")) {
         console.log("ref,alt : ", x);
         await AnalyseGenetique.create({
-          chromosome2: {
-            USER_ID: User._id,
-            ID: item.split("\t")[2],
-            POS: item.split("\t")[1],
-            REF: item.split("\t")[3],
-            RES: item.split("\t")[9],
-            TYPE: 2,
-          },
+          USER_ID: User._id,
+          ID: item.split("\t")[2],
+          POS: item.split("\t")[1],
+          chrom: item.split("\t")[4] + " | " + item.split("\t")[4],
+          TYPE: 1,
         });
       } else if (x.match("^1/1:[1-14]*")) {
         console.log("alt,alt : ", x);
         await AnalyseGenetique.create({
-          chromosome3: {
-            USER_ID: User._id,
-            ID: item.split("\t")[2],
-            POS: item.split("\t")[1],
-            REF: item.split("\t")[3],
-            RES: item.split("\t")[9],
-            TYPE: 3,
-          },
+          USER_ID: User._id,
+          ID: item.split("\t")[2],
+          POS: item.split("\t")[1],
+          chrom: item.split("\t")[3] + " | " + item.split("\t")[4],
+          TYPE: 2,
         });
       } else if (
         x.match("^0/0:0*") ||
@@ -284,7 +272,7 @@ app.post("/Adduser", async (req, res) => {
         x.match("^1/0:0*")
       ) {
       }
-      console.log("info:", 0);
+      console.log("info:");
     }
     lineno++;
   });

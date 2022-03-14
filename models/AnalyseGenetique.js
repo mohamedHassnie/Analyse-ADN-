@@ -11,10 +11,7 @@ AnalyseGenetique = new mongoose.Schema({
     type: String,
   },
 
-  REF: {
-    type: String,
-  },
-  RES: {
+  chrom: {
     type: String,
   },
   TYPE: {
