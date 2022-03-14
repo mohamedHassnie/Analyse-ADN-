@@ -21,61 +21,38 @@ const upload1 = multer({ storage });
 app.post("/telecharger", upload1.single("filetoupload"), (req, res) => {
   return res.json({ status: "OK" });
 });
+//var userdata = fs
+// .readFileSync("Medical_questionnaire_Livewellgx.csv")
+// .toLocaleString();
+//var rows = userdata.split("\n"); // SPLIT ROWS
+//console.log(rows);
 
+//console.log(rows[8].split(";")[1]);
 app.use(bodyParser.json());
 
-/*
-const xlsx = require("xlsx");
-var workbook = xlsx.readFile("uploads/Medical questionnaire_Livewellgx.xlsx");
-const sheet_name_list = workbook.SheetNames;
-var data = xlsx.utils.sheet_to_json(workbook.Sheets[sheet_name_list[1]]);
-var data5 = JSON.stringify(data[21]);
-
-//console.log("--------", data[2].__EMPTY);
-console.log("-------------------", data);
-console.log("-------------------barcode", data[3]["15466115"].ge);
-
-
-*/
-const csv = require("csv-parser");
-
-//const fs = require('fs');
-// data = fs.createReadStream("Medical questionnaire_Livewellgx.csv");
-// console.log("------------------------------------------------", data);
-/*
-.pipe(csv())
-  .on("data", (row) => {
-    console.log(row);
-  })
-  .on("end", () => {
-    console.log("CSV file successfully processed");
-  });
-*/
 app.post("/Adduser", async (req, res) => {
-  console.log("---", req.body);
-
   const { FILE_USER_PATH, FILE_CHROMO_USER_PATH } = req.body;
-  console.log(FILE_USER_PATH, "---", FILE_CHROMO_USER_PATH);
-
   var userdata = fs.readFileSync(FILE_USER_PATH).toLocaleString();
   var rows = userdata.split("\n"); // SPLIT ROWS
+  console.log(rows);
   let barcode = rows[0].split(";")[1];
   console.log(barcode);
   let name = rows[4].split(";")[1];
   console.log(name);
-  let ID_Passport = rows[4].split(";")[1];
-  console.log(ID_Passport);
+  let ID_Passport = rows[5].split(";")[1];
+  Nationality = rows[6].split(";")[1];
+  Gender = rows[7].split(";")[1];
+  //Date = rows[8].split(";")[1];
+  Email = rows[9].split(";")[1];
+  contact = rows[8].split(";")[1];
 
   let user = await User.create({
     Barcode: barcode,
     Name: name,
     ID_Passport: ID_Passport,
-    // Nationality: data[5].__EMPTY,
-    // Gender: data[6].__EMPTY,
-    // Date_of_birth: data[7].__EMPTY,
-    // Email_address: data[8].__EMPTY,
-    // Contact_number: data[9].__EMPTY,
-    // Physical_Address: data[10].__EMPTY,
+    Nationality: rows[6].split(";")[1],
+    Gender: rows[7].split(";")[1],
+    Email_address: rows[9].split(";")[1],
 
     // Medical_Questions: {
     //   Do_you_drink_Alcohol: {
@@ -231,7 +208,6 @@ app.post("/Adduser", async (req, res) => {
     //],
   });
 
-  console.log(user);
   var myInterface = readline.createInterface({
     input: fs.createReadStream(FILE_CHROMO_USER_PATH),
   });
@@ -272,7 +248,7 @@ app.post("/Adduser", async (req, res) => {
         x.match("^1/0:0*")
       ) {
       }
-      console.log("info:");
+      console.log("info:", 0);
     }
     lineno++;
   });

@@ -208,7 +208,6 @@ app.post("/Adduser", async (req, res) => {
     //],
   });
 
-  console.log(user);
   var myInterface = readline.createInterface({
     input: fs.createReadStream(FILE_CHROMO_USER_PATH),
   });
