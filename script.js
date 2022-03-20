@@ -5,8 +5,11 @@ const bodyParser = require("body-parser");
 require("./config/database");
 AnalyseGenetique = require("./models/AnalyseGenetique");
 const User = require("./models/user");
+const admin_urls = require("./routes/authentication");
 
 var fs = require("fs");
+const cors = require("cors");
+app.use(cors({ origin: true }));
 var readline = require("readline");
 const storage = multer.diskStorage({
   destination: (req, file, cb) => {
@@ -31,8 +34,11 @@ app.post("/telecharger", upload1.single("filetoupload"), (req, res) => {
 app.use(bodyParser.json());
 
 app.post("/Adduser", async (req, res) => {
-  const { FILE_USER_PATH, FILE_CHROMO_USER_PATH } = req.body;
-  var userdata = fs.readFileSync(FILE_USER_PATH).toLocaleString();
+  if (req.files == 0) {
+    return res.status(400).send("No files were uploaded.");
+  }
+  const { file1, file2 } = req.file.body;
+  var userdata = fs.readFileSync(file1).toLocaleString();
   var rows = userdata.split("\n"); // SPLIT ROWS
   console.log(rows);
   let barcode = rows[0].split(";")[1];
@@ -209,11 +215,11 @@ app.post("/Adduser", async (req, res) => {
   });
 
   var myInterface = readline.createInterface({
-    input: fs.createReadStream(FILE_CHROMO_USER_PATH),
+    input: fs.createReadStream(file2),
   });
   var lineno = 0;
   myInterface.on("line", async (item) => {
-    if (item.split("\t")[0] !== "##") {
+    if (lineno > 29) {
       var x = item.split("\t")[9];
       if (x.match("0/0:[1-14]*")) {
         console.log("ref,ref : ", x);

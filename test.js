@@ -1,35 +1,3 @@
-const express = require("express");
-const app = express();
-const multer = require("multer");
-const bodyParser = require("body-parser");
-require("./config/database");
-AnalyseGenetique = require("./models/AnalyseGenetique");
-const User = require("./models/user");
-
-var fs = require("fs");
-var readline = require("readline");
-const storage = multer.diskStorage({
-  destination: (req, file, cb) => {
-    cb(null, "uploads");
-  },
-  filename: (req, file, cb) => {
-    const { originalname } = file;
-    cb(null, originalname);
-  },
-});
-const upload1 = multer({ storage });
-app.post("/telecharger", upload1.single("filetoupload"), (req, res) => {
-  return res.json({ status: "OK" });
-});
-//var userdata = fs
-// .readFileSync("Medical_questionnaire_Livewellgx.csv")
-// .toLocaleString();
-//var rows = userdata.split("\n"); // SPLIT ROWS
-//console.log(rows);
-
-//console.log(rows[8].split(";")[1]);
-app.use(bodyParser.json());
-
 app.post("/Adduser", async (req, res) => {
   const { FILE_USER_PATH, FILE_CHROMO_USER_PATH } = req.body;
   var userdata = fs.readFileSync(FILE_USER_PATH).toLocaleString();
@@ -253,8 +221,4 @@ app.post("/Adduser", async (req, res) => {
     lineno++;
   });
   return res.json({ status: "OK", id: user._id });
-});
-
-app.listen(3016, () => {
-  console.log("THIS SERVER IS RUNING ON PORTS");
 });

@@ -1,0 +1,2878 @@
+{
+  "CASE00": [
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs9651229",
+      "POS": "567667",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs9701872",
+      "POS": "568208",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs11497407",
+      "POS": "568527",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs116587930",
+      "POS": "727841",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs114525117",
+      "POS": "759036",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12127425",
+      "POS": "794332",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs79373928",
+      "POS": "801536",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs116452738",
+      "POS": "834830",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72631887",
+      "POS": "835092",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4970383",
+      "POS": "838555",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28678693",
+      "POS": "838665",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs4475691",
+      "POS": "846808",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72631889",
+      "POS": "851390",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs7537756",
+      "POS": "854250",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs376747791",
+      "POS": "863130",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs76723341",
+      "POS": "872952",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs148327885",
+      "POS": "878331",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs143853699",
+      "POS": "879911",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs67274836",
+      "POS": "884767",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs3828049",
+      "POS": "889238",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77608078",
+      "POS": "891277",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs35241590",
+      "POS": "904752",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28561399",
+      "POS": "910473",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs3748588",
+      "POS": "911101",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs186101910",
+      "POS": "914749",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs116781904",
+      "POS": "919855",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs61770779",
+      "POS": "919927",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs202075563",
+      "POS": "949472",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28591569",
+      "POS": "959509",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs138288952",
+      "POS": "978762",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs144164397",
+      "POS": "978804",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs79016973",
+      "POS": "978974",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs143324306",
+      "POS": "979397",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs113288277",
+      "POS": "979748",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs112039851",
+      "POS": "980824",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs146243145",
+      "POS": "980868",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs200684031",
+      "POS": "981139",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs149268246",
+      "POS": "982968",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs149762107",
+      "POS": "983005",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs142620337",
+      "POS": "983243",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs536657086",
+      "POS": "983256",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs111818381",
+      "POS": "984971",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs143143061",
+      "POS": "985905",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs145444272",
+      "POS": "986165",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs144245019",
+      "POS": "986732",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs145116277",
+      "POS": "986963",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs113261977",
+      "POS": "987253",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs74223856",
+      "POS": "988902",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs113592356",
+      "POS": "1004331",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115723010",
+      "POS": "1022223",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs114326054",
+      "POS": "1022423",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs61766340",
+      "POS": "1023114",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12132100",
+      "POS": "1023788",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs116334314",
+      "POS": "1026428",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115662838",
+      "POS": "1026913",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77334480",
+      "POS": "1027888",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6671356",
+      "POS": "1040026",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs147606383",
+      "POS": "1045331",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12080505",
+      "POS": "1045606",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs61766344",
+      "POS": "1054091",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs11260598",
+      "POS": "1065726",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs61766346",
+      "POS": "1068883",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs139475585",
+      "POS": "1070467",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs141230226",
+      "POS": "1072181",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs11260603",
+      "POS": "1079198",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs116661896",
+      "POS": "1079261",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs74045142",
+      "POS": "1092071",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77791262",
+      "POS": "1092205",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs57527288",
+      "POS": "1092563",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs61768477",
+      "POS": "1095130",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs76051810",
+      "POS": "1099840",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs61768480",
+      "POS": "1103150",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs112695918",
+      "POS": "1104584",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs11260542",
+      "POS": "1110019",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs12092254",
+      "POS": "1113121",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs111751804",
+      "POS": "1115503",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs114390380",
+      "POS": "1115548",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs111290899",
+      "POS": "1118578",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77051049",
+      "POS": "1119546",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs1320571",
+      "POS": "1120431",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs77950429",
+      "POS": "1120536",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115516254",
+      "POS": "1127561",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs3753350",
+      "POS": "1144196",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs142820961",
+      "POS": "1168115",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs3813196",
+      "POS": "1169381",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs12093154",
+      "POS": "1178925",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs78446752",
+      "POS": "1183397",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "1:1183442",
+      "POS": "1183442",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs116866065",
+      "POS": "1189605",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs114569858",
+      "POS": "1195883",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72894077",
+      "POS": "1196374",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4018608",
+      "POS": "1203938",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs76370872",
+      "POS": "1210744",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs74950664",
+      "POS": "1215260",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2144440",
+      "POS": "1220136",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12751100",
+      "POS": "1220954",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs11260578",
+      "POS": "1221138",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs111819661",
+      "POS": "1222958",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs137911309",
+      "POS": "1225697",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3737721",
+      "POS": "1227897",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs117919883",
+      "POS": "1233576",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs370042082",
+      "POS": "1234137",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs145087137",
+      "POS": "1238583",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs74564044",
+      "POS": "1239797",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77641120",
+      "POS": "1239847",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs148575933",
+      "POS": "1251271",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs150672559",
+      "POS": "1263085",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs144594741",
+      "POS": "1267040",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs76584377",
+      "POS": "1267291",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs373399503.2",
+      "POS": "1267441",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs200097416",
+      "POS": "1267539",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs181719474",
+      "POS": "1267582",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs201675765",
+      "POS": "1269219",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72634803",
+      "POS": "1270132",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77443780",
+      "POS": "1272858",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs797044837",
+      "POS": "1273380",
+      "chrom": "CT | CT",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs797044833_MNV",
+      "POS": "1273425",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs797044834",
+      "POS": "1273478",
+      "chrom": "GGGGGCAGCCGGGT | GGGGGCAGCCGGGT",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs797044836",
+      "POS": "1273487",
+      "chrom": "CG | CG",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs145496306",
+      "POS": "1277833",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs76022438",
+      "POS": "1302995",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs17160669",
+      "POS": "1305561",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs150194697",
+      "POS": "1309405",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs34429643",
+      "POS": "1316247",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs17160977",
+      "POS": "1341185",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs11548045",
+      "POS": "1342394",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs187909141",
+      "POS": "1353400",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs138985554",
+      "POS": "1361130",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs143000156",
+      "POS": "1365759",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs35368272",
+      "POS": "1374436",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs78727284",
+      "POS": "1377535",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs149262155",
+      "POS": "1386089",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs137900170",
+      "POS": "1392325",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs138988486",
+      "POS": "1394069",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs146343349",
+      "POS": "1412659",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs141143061",
+      "POS": "1417927",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-1:1425512",
+      "POS": "1425512",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs145313947",
+      "POS": "1425753",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs111509968",
+      "POS": "1446390",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6690515",
+      "POS": "1447325",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs139049688",
+      "POS": "1449501",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs6669795",
+      "POS": "1450947",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs201292180",
+      "POS": "1454325",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12032637",
+      "POS": "1465382",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs79463926",
+      "POS": "1467322",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs606231451",
+      "POS": "1470752",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs146206869",
+      "POS": "1470807",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs75437521",
+      "POS": "1483625",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2031709",
+      "POS": "1485984",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs1887284",
+      "POS": "1487059",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs4970458",
+      "POS": "1500925",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-1:1501061",
+      "POS": "1501061",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77167259",
+      "POS": "1501089",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77661767",
+      "POS": "1510724",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs114517777",
+      "POS": "1512885",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4648786",
+      "POS": "1521805",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs61774870",
+      "POS": "1525437",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "1:1542721",
+      "POS": "1542721",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs74223870",
+      "POS": "1543050",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12725787",
+      "POS": "1555396",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs78656035",
+      "POS": "1555718",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs117366726",
+      "POS": "1558267",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28635343",
+      "POS": "1560103",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs117489126",
+      "POS": "1561051",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs7532034",
+      "POS": "1603163",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs200755605",
+      "POS": "1650844",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs201091435",
+      "POS": "1650885",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs373908706",
+      "POS": "1673175",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs75816936",
+      "POS": "1686081",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72634841",
+      "POS": "1688096",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs78804397",
+      "POS": "1689225",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs111366931",
+      "POS": "1692989",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs144596499",
+      "POS": "1703545",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs10907185",
+      "POS": "1733219",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs869312825",
+      "POS": "1735987",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs752746786",
+      "POS": "1737942",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115507312",
+      "POS": "1749412",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs114622732",
+      "POS": "1766856",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115361377",
+      "POS": "1777077",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs74773083",
+      "POS": "1848197",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs200415259",
+      "POS": "1848206",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs111582404",
+      "POS": "1848601",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs4648597",
+      "POS": "1881361",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs192231857",
+      "POS": "1881490",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "1:1884055",
+      "POS": "1884055",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28624830",
+      "POS": "1885769",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs76385183",
+      "POS": "1886370",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs3795289",
+      "POS": "1886863",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs78927713",
+      "POS": "1891034",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28446828",
+      "POS": "1891156",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs17777942",
+      "POS": "1906789",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs74046262",
+      "POS": "1906804",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115193218",
+      "POS": "1907739",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs6662278",
+      "POS": "1923507",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28706276",
+      "POS": "1933267",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28550169",
+      "POS": "1939826",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72636353",
+      "POS": "1954179",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs16824627",
+      "POS": "1962633",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs117504198",
+      "POS": "1964852",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs115492961",
+      "POS": "1967404",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs55977422",
+      "POS": "1969601",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs74372554",
+      "POS": "1969752",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs188382475",
+      "POS": "1974254",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6661694",
+      "POS": "1978655",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs61709121",
+      "POS": "1979842",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28668690",
+      "POS": "1985705",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs148023796",
+      "POS": "1986252",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs75246334",
+      "POS": "1992431",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs4454477",
+      "POS": "2000337",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs78305720",
+      "POS": "2008959",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs78645774",
+      "POS": "2009294",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs181128189",
+      "POS": "2020224",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs61775407",
+      "POS": "2028060",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs76198274",
+      "POS": "2044962",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs56260599",
+      "POS": "2056115",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs12744596",
+      "POS": "2067708",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs424079",
+      "POS": "2071340",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs79612780",
+      "POS": "2071700",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs75515273",
+      "POS": "2091762",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115113197",
+      "POS": "2093124",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs61776610",
+      "POS": "2098512",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs12137653",
+      "POS": "2099882",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs11587831",
+      "POS": "2110848",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115111747",
+      "POS": "2139916",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72637878",
+      "POS": "2142496",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs387907304",
+      "POS": "2160299",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs387907306,rs387907306.1",
+      "POS": "2160305",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs387907305",
+      "POS": "2160306",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs397514590",
+      "POS": "2160308",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs398122889",
+      "POS": "2160487",
+      "chrom": "CGACCGCTCC | CGACCGCTCC",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs863223723",
+      "POS": "2160551",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs387907303",
+      "POS": "2160552",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs149642284",
+      "POS": "2161003",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs867635",
+      "POS": "2168604",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs10910033",
+      "POS": "2173179",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs114462818",
+      "POS": "2184755",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77797313",
+      "POS": "2186115",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12084736",
+      "POS": "2189580",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs3795275",
+      "POS": "2209780",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6689315",
+      "POS": "2216391",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12119470",
+      "POS": "2218100",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs2017143",
+      "POS": "2220649",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs1532385",
+      "POS": "2225284",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12024136",
+      "POS": "2225412",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs199634070",
+      "POS": "2234410",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs150934009",
+      "POS": "2234480",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs141862996",
+      "POS": "2234824",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs370921440",
+      "POS": "2235271",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs58351713",
+      "POS": "2237020",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs773151547",
+      "POS": "2237581",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs116161617",
+      "POS": "2238727",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs79907870",
+      "POS": "2240074",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2843157",
+      "POS": "2240383",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs74554258",
+      "POS": "2251822",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72642142",
+      "POS": "2253369",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs190722062",
+      "POS": "2254082",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115750325",
+      "POS": "2254558",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs189303382",
+      "POS": "2256217",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2645065",
+      "POS": "2261222",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs78615410",
+      "POS": "2265958",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs56298931",
+      "POS": "2270170",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72920968",
+      "POS": "2277392",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs2055204",
+      "POS": "2280661",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs7527871",
+      "POS": "2281726",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4648831",
+      "POS": "2283117",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2840526",
+      "POS": "2283266",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs114820209",
+      "POS": "2294349",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs77793792",
+      "POS": "2301212",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2840535",
+      "POS": "2301609",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs10910061",
+      "POS": "2303512",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2279703",
+      "POS": "2306695",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12070746",
+      "POS": "2308029",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs61760819",
+      "POS": "2311393",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115217673",
+      "POS": "2315032",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3736331",
+      "POS": "2318653",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs4648838",
+      "POS": "2329212",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6693447",
+      "POS": "2330190",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs75262920",
+      "POS": "2331139",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs35082957",
+      "POS": "2337992",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs61752093",
+      "POS": "2338019",
+      "chrom": "CAG | CAG",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs61750435",
+      "POS": "2338230",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs139345520",
+      "POS": "2338250",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs58827215",
+      "POS": "2338658",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2494429",
+      "POS": "2339395",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs146452560",
+      "POS": "2340173",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs375032738",
+      "POS": "2340302",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs61760854",
+      "POS": "2341060",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs80045357",
+      "POS": "2348983",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12731309",
+      "POS": "2352146",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs75884450",
+      "POS": "2353116",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs75236747",
+      "POS": "2353972",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12118145",
+      "POS": "2355223",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs67532508",
+      "POS": "2355400",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs114573763",
+      "POS": "2357367",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2494641",
+      "POS": "2362827",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2494639",
+      "POS": "2368775",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs61763907",
+      "POS": "2369021",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2494425",
+      "POS": "2372858",
+      "chrom": "T | T",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs76228524",
+      "POS": "2372874",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs74049259",
+      "POS": "2372940",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12563838",
+      "POS": "2374120",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs12406368",
+      "POS": "2380384",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4648845",
+      "POS": "2387101",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4648846",
+      "POS": "2389152",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2477686",
+      "POS": "2392648",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs79868541",
+      "POS": "2401668",
+      "chrom": "C | C",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs117704179",
+      "POS": "2410698",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs115810747",
+      "POS": "2413166",
+      "chrom": "A | A",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs140711939",
+      "POS": "2420233",
+      "chrom": "G | G",
+      "TYPE": 0
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs148922747",
+      "POS": "2425665",
+      "chrom": "G | G",
+      "TYPE": 0
+    }
+  ],
+  "CASE01": [
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2880024",
+      "POS": "866893",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs41285816",
+      "POS": "917640",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2341354",
+      "POS": "918573",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4970414",
+      "POS": "919501",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2799064",
+      "POS": "957898",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2275811",
+      "POS": "985460",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2465136",
+      "POS": "990417",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs9442372",
+      "POS": "1018704",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12731175",
+      "POS": "1030374",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4072537",
+      "POS": "1065296",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs79295821",
+      "POS": "1110557",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6671609",
+      "POS": "1112982",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs10907175",
+      "POS": "1130727",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3813199",
+      "POS": "1158277",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs76888271",
+      "POS": "1158357",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs1058161",
+      "POS": "1190523",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12103",
+      "POS": "1247494",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs62623580",
+      "POS": "1254255",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3845293",
+      "POS": "1258246",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs4970443",
+      "POS": "1316887",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs1240707",
+      "POS": "1335302",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs1240708",
+      "POS": "1335790",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3843249",
+      "POS": "1373373",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs111938039",
+      "POS": "1400170",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs7531221",
+      "POS": "1453373",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs7531530",
+      "POS": "1489670",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs9442411",
+      "POS": "1619767",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs17162855",
+      "POS": "1695831",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs6603811",
+      "POS": "1706136",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4648727",
+      "POS": "1776269",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs7525092",
+      "POS": "1810090",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28710181",
+      "POS": "1847531",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs28633659",
+      "POS": "1854546",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs45489198",
+      "POS": "1859176",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs60609500",
+      "POS": "1860997",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2803316",
+      "POS": "1865298",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28548017",
+      "POS": "1887019",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3820011",
+      "POS": "1888193",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4648601",
+      "POS": "1899861",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4648746",
+      "POS": "1914487",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs13303332",
+      "POS": "1923129",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6605081",
+      "POS": "1930754",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs1878747",
+      "POS": "1991162",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs28652946",
+      "POS": "2008688",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs13303130",
+      "POS": "2019070",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs13303198",
+      "POS": "2020905",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs908743",
+      "POS": "2038824",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4648808",
+      "POS": "2040936",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3107146",
+      "POS": "2047584",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs11589827",
+      "POS": "2055856",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs425277",
+      "POS": "2069172",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs385039",
+      "POS": "2077409",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs34944978",
+      "POS": "2082829",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4648821",
+      "POS": "2216368",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs59476564",
+      "POS": "2218129",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2643884",
+      "POS": "2220425",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs884940",
+      "POS": "2223866",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2889408",
+      "POS": "2225251",
+      "chrom": "T | T",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs1496555",
+      "POS": "2234251",
+      "chrom": "G | G",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12082516",
+      "POS": "2251160",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs1472319",
+      "POS": "2273905",
+      "chrom": "C | C",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs72642184",
+      "POS": "2325548",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs55746053",
+      "POS": "2337560",
+      "chrom": "A | A",
+      "TYPE": 1
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3935659",
+      "POS": "2351699",
+      "chrom": "C | C",
+      "TYPE": 1
+    }
+  ],
+  "CASE11": [
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3131972",
+      "POS": "752721",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs4970382",
+      "POS": "840753",
+      "chrom": "T | C",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs13302982",
+      "POS": "861808",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs13302914",
+      "POS": "868404",
+      "chrom": "C | T",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2272757",
+      "POS": "881627",
+      "chrom": "G | A",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3748597",
+      "POS": "888659",
+      "chrom": "T | C",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "exm2264981",
+      "POS": "894573",
+      "chrom": "G | A",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs13303229",
+      "POS": "897564",
+      "chrom": "T | C",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3935066",
+      "POS": "900730",
+      "chrom": "G | A",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6669800",
+      "POS": "903321",
+      "chrom": "G | A",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6605059",
+      "POS": "919419",
+      "chrom": "T | C",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3121578",
+      "POS": "974894",
+      "chrom": "C | T",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs7526076",
+      "POS": "998395",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs9651273",
+      "POS": "1031540",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs9442373",
+      "POS": "1062638",
+      "chrom": "C | A",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs9442385",
+      "POS": "1097335",
+      "chrom": "T | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs6603782",
+      "POS": "1171417",
+      "chrom": "C | T",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs307377",
+      "POS": "1269554",
+      "chrom": "T | C",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2260423",
+      "POS": "1314707",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs28703654",
+      "POS": "1543311",
+      "chrom": "G | A",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "exm2268858",
+      "POS": "1664124",
+      "chrom": "T | C",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2076327",
+      "POS": "1686962",
+      "chrom": "C | T",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs16824588",
+      "POS": "1900232",
+      "chrom": "T | C",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs6656398",
+      "POS": "1941929",
+      "chrom": "G | A",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs13303016",
+      "POS": "1946591",
+      "chrom": "G | A",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs2803346",
+      "POS": "2011958",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs2459995",
+      "POS": "2024256",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs262680",
+      "POS": "2167149",
+      "chrom": "C | T",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs10910045",
+      "POS": "2205527",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12047069",
+      "POS": "2205548",
+      "chrom": "A | C",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12045693",
+      "POS": "2205581",
+      "chrom": "C | A",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs12730050",
+      "POS": "2273144",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "GSA-rs2643908",
+      "POS": "2312395",
+      "chrom": "C | T",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs3001344",
+      "POS": "2329808",
+      "chrom": "A | G",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs2494427",
+      "POS": "2338569",
+      "chrom": "T | C",
+      "TYPE": 2
+    },
+    {
+      "USER_ID": "6233c9df93b1a878bd7f7ab3",
+      "ID": "rs10910082",
+      "POS": "2418935",
+      "chrom": "C | T",
+      "TYPE": 2
+    }
+  ]
+}

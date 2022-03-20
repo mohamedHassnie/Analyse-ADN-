@@ -4,6 +4,7 @@ AnalyseGenetique = new mongoose.Schema({
   USER_ID: {
     type: String,
   },
+  USER_barcode: { type: String },
   ID: {
     type: String,
   },
