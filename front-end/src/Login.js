@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+
 import axios from "axios";
 import { Redirect } from "react-router-dom";
 function Login() {
@@ -7,8 +8,9 @@ function Login() {
 
   const HandleSubmit = async (e) => {
     e.preventDefault();
+    console.log("test");
     try {
-      const res = await axios.post("http://localhost:3016/api/login", {
+      const res = await axios.post("http://localhost:3017/api/login", {
         email,
         password,
       });
@@ -18,9 +20,10 @@ function Login() {
       console.log(e);
     }
   };
+
   return (
     <div className="login">
-      <form onsubmit={HandleSubmit}>
+      <form>
         <h1>Login</h1>
         <div className=" aa ">
           <input
@@ -46,7 +49,7 @@ function Login() {
             required
           />
         </div>
-        <button type="submit" className="ccc">
+        <button onClick={HandleSubmit()} className="ccc">
           Connexion
         </button>
       </form>

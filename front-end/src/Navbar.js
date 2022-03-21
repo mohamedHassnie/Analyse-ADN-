@@ -38,9 +38,8 @@ function Navbar() {
               </li>
               <form>
                 <button
-                  classname="form "
+                  className="form btn btn-danger  position-absolute  end-50"
                   type="submit"
-                  class="btn btn-danger  position-absolute  end-50 "
                   method="post"
                   to="/logout"
                 >

@@ -82,7 +82,7 @@ input [type="submit"]:hover {
 .ee {
   width: 380px;
   right: 60px;
-  margin: 20px 450px 50px;
+  margin: 90px 450px 50px;
   padding: 5px;
   transform: translateX(-50%, -50%);
 }

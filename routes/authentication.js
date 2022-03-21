@@ -9,9 +9,10 @@ var SECRET_KEY = "AZyWmZ1456@TOOP";
 
 router.post("/api/login", async (req, res, next) => {
   const { email, password } = req.body;
+  console.log(req.body);
   try {
-    const admin = await Admin.findOne({ email });
-
+    const admin = await Admin.findOne({ email: email });
+    console.log("eeee", admin);
     if (admin) {
       bcrypt
         .compare(password, admin.password)
